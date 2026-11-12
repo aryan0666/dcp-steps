@@ -1,0 +1,15 @@
+date,time_recorded,steps,college_day,transport,minutes_outside,energy,weather
+2026-11-10,02:57,6403,n,car,240,3,rainy
+2026-11-11,02:48,4528,n,car,120,3,cloudy
+2026-11-03,21:30,9120, Y ,Walk,95,4,Sunny
+2026-11-04,21:15,,y,bus,60,3,cloudy
+2026-13-01,21:00,5000,y,bus,60,3,cloudy
+2026-02-30,21:00,5000,y,bus,60,3,cloudy
+2026-11-05,25:99,7000,maybe,bike,abc,9,snowy
+2026-11-06,22:00,-50,n,none,10,2,rainy
+2026-11-07,22:10,62000,n,walk,600,5,sunny
+2026-11-08,22:05,3.5,n,none,0,1,rainy
+2026-11-09,22:00,4100,n,none,1500,0,cloudy
+2026-11-10,23:00,8000,y,luas,90,4,sunny
+2099-01-01,21:00,5000,y,bus,60,3,cloudy
+2026-11-02,21:40,8800,y,luas
