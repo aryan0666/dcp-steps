@@ -1,0 +1,5 @@
+# The database is rebuilt from data/steps.csv every time load.py runs
+steps.db
+
+# Python cache files
+__pycache__/
