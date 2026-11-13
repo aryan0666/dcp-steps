@@ -11,3 +11,4 @@ date,time_recorded,steps,college_day,transport,minutes_outside,energy,weather
 2026-11-10,02:57,6403,n,car,240,3,rainy
 2026-11-11,02:48,4528,n,car,120,3,cloudy
 2026-11-12,23:58,5738,n,car,300,1,cloudy
+2026-11-13,22:59,4563,n,car,480,2,sunny
